@@ -1,0 +1,7 @@
+The data set is taken from Kaggle 
+link to data set: https://www.kaggle.com/c/predict-repeat-restaurant-bookings/data
+
+
+As member data set is to large to upload directly so I have split the dataset into 3 files.
+
+PLEASE Merge Member1.csv and Member2.csv at end of main file Member.csv and then use member.csv as dataset for members
